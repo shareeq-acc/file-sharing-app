@@ -52,6 +52,7 @@ GOOGLE_CLIENT_SECRET=your_client_secret
 GOOGLE_REDIRECT_URI=your_redirect_uri
 GOOGLE_REFRESH_TOKEN=your_refresh_token
 ```
+(The Frontend is not completed Yet!)
 
 ## Installation
 
